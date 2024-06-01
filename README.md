@@ -37,7 +37,7 @@ Iam Nour Sallam
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,laravel" /><br>
-  <img src="https://skillicons.dev/icons?i=metasploit,kali,java,mysql,laravel" /><br>
+  <img src="https://skillicons.dev/icons?i=metasploit,kali,bash" /><br>
 </div>
 
 <br/>
