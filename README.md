@@ -1,3 +1,5 @@
+![TryHackMe Badge](https://tryhackme.com/badge/2345517)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -17,7 +19,7 @@ Iam Nour Sallam
 ⚡ Fun fact **Malcolm N**
 
  </div>
-![TryHackMe Badge](https://tryhackme.com/badge/2345517)
+
 
 
  
