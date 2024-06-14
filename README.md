@@ -17,7 +17,8 @@ Iam Nour Sallam
 ⚡ Fun fact **Malcolm N**
 
  </div>
- <script src="https://tryhackme.com/badge/2345517"></script>
+![TryHackMe Badge](https://tryhackme.com/badge/2345517)
+
 
  
 <div align="center"> 
