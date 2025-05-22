@@ -2,7 +2,7 @@
 <h1 align="center">
     Hi, I'm Nour Sallam
 </h1>
-<h3 align="center">Python Developer & Security Specialist from Egypt</h3>
+<h3 align="center">Backend Developer & Security Specialist from Egypt</h3>
 <br/>
 <div align="center">
  
